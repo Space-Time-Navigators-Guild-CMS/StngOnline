@@ -1,7 +1,7 @@
 # StngOnline
 Organization Repository all works in progress <br>
 https://animation.stng.site to be github page for this organization <br>
-https://stngblogsite.stng.online<br>
+http://stngblogsite.stng.online<br>
 
 https://guildblog.stng.online<br>
 https://docs.stng.online<br>
