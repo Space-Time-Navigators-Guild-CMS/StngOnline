@@ -1,7 +1,7 @@
 # StngOnline
 Organization Repository <br>
 
-https://cms.stng.online<br>
+hhttps://stngblogsite.stng.online<br>
 
 https://guildblog.stng.online<br>
 https://docs.stng.online<br>
