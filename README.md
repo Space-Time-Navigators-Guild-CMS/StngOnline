@@ -1,5 +1,5 @@
 # StngOnline
-Organization Repository <br>
+Organization Repository all works in progress <br>
 
 https://stngblogsite.stng.online<br>
 
